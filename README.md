@@ -3,3 +3,4 @@ WooCommerce Specialist [@Nexcess](https://github.com/nexcess). Devoted husband a
 A few links:
 1. [Linkedin](https://www.linkedin.com/in/lukecavanagh/)
 2. [Liquid Web KB](https://www.liquidweb.com/kb/author/lcavanagh/)
+3. [Liquid Web Blog](https://www.liquidweb.com/blog/author/lcavanagh/)
