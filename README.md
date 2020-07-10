@@ -2,4 +2,4 @@ WooCommerce Specialist @nexcess. Devoted husband and Tween wrangler. Synthwave e
 
 A few links:
 
-https://www.linkedin.com/in/lukecavanagh/
+[Linkedin](https://www.linkedin.com/in/lukecavanagh/)
