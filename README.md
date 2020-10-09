@@ -4,5 +4,6 @@ A few links:
 1. [Linkedin](https://www.linkedin.com/in/lukecavanagh/)
 2. [Liquid Web KB](https://www.liquidweb.com/kb/author/lcavanagh/)
 3. [Liquid Web Blog](https://www.liquidweb.com/blog/author/lcavanagh/)
-3. [Nexcess Blog](https://blog.nexcess.net/author/lcavanagh/)
-3. [Nexcess Help](https://help.nexcess.net/74095-wordpress)
+4. [Nexcess Blog](https://blog.nexcess.net/author/lcavanagh/)
+5. [Nexcess Help](https://help.nexcess.net/74095-wordpress)
+6. [We Optimized 20+ WooCommerce Sites So You Don't Have To](https://explore.nexcess.net/optimize-woocommerce/)
