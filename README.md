@@ -7,4 +7,3 @@ A few links:
 4. [Nexcess Knowledge Base WordPress](https://www.nexcess.net/help/tag/wordpress/)
 5. [Nexcess Knowledge Base](https://www.nexcess.net/help/author/lcavanagh/)
 6. [Liquid Web KB](https://www.liquidweb.com/kb/author/lcavanagh/)
-7. [Liquid Web Blog](https://www.liquidweb.com/blog/author/lcavanagh/)
