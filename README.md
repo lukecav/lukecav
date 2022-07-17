@@ -3,7 +3,7 @@ Product Operations Manager [@Nexcess](https://github.com/nexcess). Devoted husba
 A few links:
 1. [Linkedin](https://www.linkedin.com/in/lukecavanagh/)
 2. [Nexcess Blog](https://blog.nexcess.net/author/lcavanagh/)
-3. [Nexcess Knowledge Base WooCommerce](https://www.nexcess.net/help/tag/woocommerce/)
-4. [Nexcess Knowledge Base WordPress](https://www.nexcess.net/help/tag/wordpress/)
+3. [Nexcess Knowledge Base WooCommerce](https://www.nexcess.net/help/category/woocommerce/)
+4. [Nexcess Knowledge Base WordPress](https://www.nexcess.net/help/category/wordpress/)
 5. [Nexcess Knowledge Base](https://www.nexcess.net/help/author/lcavanagh/)
 6. [Liquid Web KB](https://www.liquidweb.com/kb/author/lcavanagh/)
