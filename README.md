@@ -2,9 +2,3 @@ Strategic Support & Accelerant [@liquidweb](https://github.com/liquidweb). Devot
 
 A few links:
 1. [Linkedin](https://www.linkedin.com/in/lukecavanagh/)
-2. [Nexcess Blog](https://blog.nexcess.net/author/lcavanagh/)
-3. [Nexcess Knowledge Base](https://www.nexcess.net/help/author/lcavanagh/)
-4. [Liquid Web Blog](https://www.liquidweb.com/blog/)
-5. [Liquid Web KB](https://www.liquidweb.com/kb/author/lcavanagh/)
-6. [Nexcess Knowledge Base WooCommerce](https://www.nexcess.net/help/category/woocommerce/)
-7. [Nexcess Knowledge Base WordPress](https://www.nexcess.net/help/category/wordpress/)
